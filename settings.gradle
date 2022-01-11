@@ -1,0 +1,5 @@
+rootProject.name = "My Application"
+include ':app'
+include ':apt'
+include ':anno'
+include ':sdk'
